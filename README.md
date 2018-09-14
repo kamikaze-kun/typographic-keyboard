@@ -14,15 +14,15 @@
 
 Русская (Типографская), на основе раскладки «Русская».
 
-![Russian Layout](web/KBDRU-TP.png)
+![](web/KBDRU-TP.png)
 
-Английская (Типографская), на основе раскладки «США».
+США (Типографская), на основе раскладки «США».
 
-![English Layout](web/KBDUS-TP.png)
-
-### [Скачать последнюю версию](https://github.com/kamikaze-kun/typographic-keyboard/releases/latest/)
+![](web/KBDUS-TP.png)
 
 ### Установка и удаление
+
+[Скачать последнюю версию](https://github.com/kamikaze-kun/typographic-keyboard/releases/latest/)
 
 Для установки типографской раскладки запустите `setup.exe` для требуемого языка. После установки настройте необходимое сочетание раскладок в диалоге «Языки и службы текстового ввода» в региональных настройках.
 
@@ -40,4 +40,4 @@
 
 ***
 
-Copyright © 2018 github.com/kamikaze-kun
+Copyright (c) 2018 github.com/kamikaze-kun
