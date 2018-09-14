@@ -1,2 +1,2 @@
 Source files (.klc) for Microsoft Keyboard Layout Creator.
-DO NOT EDIT them manually!
+DO NOT EDIT them manually unless you keep their structure and UTF-16LE encoding!
